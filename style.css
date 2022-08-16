@@ -2,7 +2,7 @@
 
 body {
   height: 100vh;
-  background-color: grey;
+  background-color: gainsboro;
   display: flex;
   justify-content: center;
   align-items: center;
